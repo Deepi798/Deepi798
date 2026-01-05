@@ -9,11 +9,11 @@
 
 I am an **Artificial Intelligence & Data Science undergraduate** with a strong interest in **Machine Learning, Deep Learning, and real-world AI applications**. I focus on **practical learning, innovation, and building end-to-end AI solutions**, from data preprocessing to deployment.
 
-🔭 Exploring end-to-end ML pipelines and production AI systems
-🌱 Currently mastering model optimization and deployment strategies
-💡 Interested in MLOps, scalable inference, and automated ML workflows
-📌 Goal is to Become a skilled Machine Learning Engineer
-📫 How to reach me**: **deepika80723@gmail.com
+-🔭 Exploring end-to-end ML pipelines and production AI systems
+-🌱 Currently mastering model optimization and deployment strategies
+-💡 Interested in MLOps, scalable inference, and automated ML workflows
+-📌 Goal is to Become a skilled Machine Learning Engineer
+-📫 How to reach me**: **deepika80723@gmail.com
 
 
 
@@ -112,7 +112,7 @@ I am an **Artificial Intelligence & Data Science undergraduate** with a strong i
 
 <div align="center">
   
-  ### ⭐ **Thanks for visiting my profile!**
+   ⭐ **Thanks for visiting my profile!**
   **Feel free to explore my repositories and connect with me!**
   
   <img src="https://komarev.com/ghpvc/?username=Deepika-S&color=9D50BB&style=flat-square" alt="Profile Views">
