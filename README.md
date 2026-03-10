@@ -13,7 +13,7 @@ I am an **Artificial Intelligence & Data Science undergraduate** with a strong i
  Currently mastering model optimization and deployment strategies
  Interested in MLOps, scalable inference, and automated ML workflows
  Goal is to Become a skilled Machine Learning Engineer
- How to reach me**: **deepika80723@gmail.com
+ How to reach me:deepika80723@gmail.com
 
 
 
