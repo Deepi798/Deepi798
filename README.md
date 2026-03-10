@@ -45,19 +45,7 @@ I am an **Artificial Intelligence & Data Science undergraduate** with a strong i
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
- GitHub Stats
-
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Deepika-S&show_icons=true&theme=radical&hide_border=true)
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Deepika-S&theme=radical&hide_border=true)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-S&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
-
+ 
 
 Projects
 
