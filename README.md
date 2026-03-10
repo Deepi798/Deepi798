@@ -1,25 +1,25 @@
-<h1 align="center">👋 Hello, I'm Deepika S</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | AI & Data Science Undergraduate</h3>
+<h1 align="center"> Hello, I'm Deepika S</h1>
+<h3 align="center"> Aspiring AI/ML Engineer | AI & Data Science Undergraduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D50BB&center=true&vCenter=true&width=435&lines=Passionate+AI%2FML+Developer;Practical+Learning+Enthusiast;End-to-End+AI+Solutions;Innovation+Driven" alt="Typing SVG" />
 </p>
 
- 👩‍💻 **About Me**
+ About Me
 
 I am an **Artificial Intelligence & Data Science undergraduate** with a strong interest in **Machine Learning, Deep Learning, and real-world AI applications**. I focus on **practical learning, innovation, and building end-to-end AI solutions**, from data preprocessing to deployment.
 
--🔭 Exploring end-to-end ML pipelines and production AI systems
--🌱 Currently mastering model optimization and deployment strategies
--💡 Interested in MLOps, scalable inference, and automated ML workflows
--📌 Goal is to Become a skilled Machine Learning Engineer
--📫 How to reach me**: **deepika80723@gmail.com
+ Exploring end-to-end ML pipelines and production AI systems
+ Currently mastering model optimization and deployment strategies
+ Interested in MLOps, scalable inference, and automated ML workflows
+ Goal is to Become a skilled Machine Learning Engineer
+ How to reach me**: **deepika80723@gmail.com
 
 
 
- 🚀 **Skills & Technologies**
+  Skills & Technologies
 
- 🧑‍💻 **Programming Languages**
+ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -30,14 +30,14 @@ I am an **Artificial Intelligence & Data Science undergraduate** with a strong i
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-4A154B?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-00C7B7?style=for-the-badge&logo=robot&logoColor=white)
 
- 🌐 **Web Development**
+ Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
- 🗄️ **Databases & Tools**
+ Databases & Tools
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,7 +45,7 @@ I am an **Artificial Intelligence & Data Science undergraduate** with a strong i
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
- 📊 **GitHub Stats**
+ GitHub Stats
 
 <div align="center">
   
@@ -59,42 +59,24 @@ I am an **Artificial Intelligence & Data Science undergraduate** with a strong i
 
 
 
-📂 **Projects**
+Projects
 
- 📊 **Telco Customer Churn Prediction**
-> Built a machine learning model to predict customer churn. Performed data preprocessing, feature engineering, and model evaluation. Improved customer retention insights using predictive analytics.
+ Autonomous Research Assistant | Python, LLMs, RAG, Web APIs 
 
-**Tech:** Python • TensorFlow • Pandas • Data Preprocessing • Feature Engineering
+• Developed an AI assistant that collects information from multiple sources and generates research summaries.
 
- 🎵 **Music Mood Mapper (Django)**
-> Developed a Django-based web application that maps user-selected music to moods. Integrated backend logic with a clean UI.
+ Multiplayer Speed Typing Game | Python, HTMl,CSS,JS
 
-**Tech:** Django • Python • HTML • CSS • JavaScript • Backend Logic
+• Developed a real-time multiplayer typing game where users compete to type words faster and improve typing speed.
 
- 📁 **Certificate Manager Application**
-> Designed an application to manage and organize certificates. Focused on usability, storage, and retrieval. Implemented efficient data handling.
+Certificate Management System |  HTML, CSS, JavaScript 
 
-**Tech:** Python • SQL • UI Design • Data Management • Efficiency Optimization
-
- 🎯 **Areas of Interest**
- 🤖 **Machine Learning & Deep Learning**
- 💬 **Large Language Models (LLMs)**
- 🌐 **AI-powered Web Applications**
- 📊 **Data Analytics & Visualization**
- ⭐ **Intelligent Recommendation Systems**
- 🔧 **End-to-End AI Solutions**
+• Developed a web-based system to store, organize, and manage digital certificates efficiently.
 
 
 
- 📈 **Currently Learning**
-- Advanced Neural Networks
-- Model Deployment (Flask / Django / Streamlit)
-- MLOps Basics
-- Data Structures & Algorithms (Python)
-- Real-world AI Implementation Strategies
 
-
-📬 **Connect With Me**
+Connect With Me
 
 <p align="center">
   <a href="mailto:deepika80723@gmail.com">
@@ -112,8 +94,8 @@ I am an **Artificial Intelligence & Data Science undergraduate** with a strong i
 
 <div align="center">
   
-   ⭐ **Thanks for visiting my profile!**
-  **Feel free to explore my repositories and connect with me!**
+  Thanks for visiting my profile!
+  Feel free to explore my repositories and connect with me!
   
   <img src="https://komarev.com/ghpvc/?username=Deepika-S&color=9D50BB&style=flat-square" alt="Profile Views">
   
